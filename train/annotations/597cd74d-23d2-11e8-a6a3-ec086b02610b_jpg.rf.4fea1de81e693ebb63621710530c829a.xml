@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>597cd74d-23d2-11e8-a6a3-ec086b02610b_jpg.rf.4fea1de81e693ebb63621710530c829a.jpg</filename>
+	<path>597cd74d-23d2-11e8-a6a3-ec086b02610b_jpg.rf.4fea1de81e693ebb63621710530c829a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>409</xmin>
+			<xmax>698</xmax>
+			<ymin>6</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

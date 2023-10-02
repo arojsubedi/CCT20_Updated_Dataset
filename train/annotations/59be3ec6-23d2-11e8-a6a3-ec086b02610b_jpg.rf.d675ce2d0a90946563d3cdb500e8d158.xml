@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>59be3ec6-23d2-11e8-a6a3-ec086b02610b_jpg.rf.d675ce2d0a90946563d3cdb500e8d158.jpg</filename>
+	<path>59be3ec6-23d2-11e8-a6a3-ec086b02610b_jpg.rf.d675ce2d0a90946563d3cdb500e8d158.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>920</xmin>
+			<xmax>1014</xmax>
+			<ymin>370</ymin>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>58d15e37-23d2-11e8-a6a3-ec086b02610b_jpg.rf.da0d0da6dac6d80639e899aa43629c43.jpg</filename>
+	<path>58d15e37-23d2-11e8-a6a3-ec086b02610b_jpg.rf.da0d0da6dac6d80639e899aa43629c43.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>347</xmax>
+			<ymin>473</ymin>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+</annotation>
